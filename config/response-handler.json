@@ -1,0 +1,30 @@
+{
+    "noResultFound": {
+        "en": "No result found.",
+        "es": "No se han encontrado resultados."
+    },
+    "recordingCreated": {
+        "en": "Recording created",
+        "es": "Grabación creada"
+    },
+    "recordingDelete": {
+        "en": "Recording deleted",
+        "es": "Grabación eliminada"
+    },
+    "somethingWentWrong": {
+        "en": "Something went wrong",
+        "es": "Algo salió mal"
+    },
+    "paramRequired": {
+        "en": "All parameters are required!",
+        "es": "Se requieren todos los parámetros!"
+    },
+    "urlExpired": {
+        "en": "Recording Url expired",
+        "es": "Grabación de URL expiró"
+    },
+    "noRecording": {
+        "en": "Recording not found",
+        "es": "Grabación no encontrado"
+    }
+}
